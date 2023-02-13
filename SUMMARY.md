@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Welcome](README.md)
 
 ## 文章
 
@@ -10,6 +10,10 @@
 ## leetcode题解
 
 * [😁 simple](leetcode-ti-jie/simple/README.md)
-  * [Page 2](leetcode-ti-jie/simple/page-2.md)
+  * [217. 存在重复元素](leetcode-ti-jie/simple/217.-cun-zai-zhong-fu-yuan-su.md)
 * [😫 normal](leetcode-ti-jie/normal.md)
 * [🤬 hard](leetcode-ti-jie/hard.md)
+
+***
+
+* [template](template.md)
