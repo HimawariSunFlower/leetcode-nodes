@@ -6,6 +6,8 @@ description: template
 
 题干
 
+xxx
+
 #### **示例 1：**
 
 ```
@@ -31,6 +33,14 @@ description: template
 **xxxxx**
 
 #### 题解：
+
+```
+// Some code
+```
+
+优化：
+
+xxxx
 
 ```
 // Some code
