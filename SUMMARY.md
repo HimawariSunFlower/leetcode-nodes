@@ -18,7 +18,9 @@
   * [350. 两个数组的交集 II](leetcode-ti-jie/simple/350.-liang-ge-shu-zu-de-jiao-ji-ii.md)
   * [566. 重塑矩阵](leetcode-ti-jie/simple/566.-zhong-su-ju-zhen.md)
 * [😫 normal](leetcode-ti-jie/normal.md)
+  * [36. 有效的数独](leetcode-ti-jie/normal/36.-you-xiao-de-shu-du.md)
   * [53.最大子序和](leetcode-ti-jie/normal/53.-zui-da-zi-xu-he.md)
+  * [73. 矩阵置零](leetcode-ti-jie/normal/73.-ju-zhen-zhi-ling.md)
 * [🤬 hard](leetcode-ti-jie/hard.md)
 
 ***
