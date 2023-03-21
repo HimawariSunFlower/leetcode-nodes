@@ -16,6 +16,7 @@
   * [118. 杨辉三角](leetcode-ti-jie/simple/118.-yang-hui-san-jiao.md)
   * [121. 买卖股票的最佳时机](leetcode-ti-jie/simple/121.-mai-mai-gu-piao-de-zui-jia-shi-ji.md)
   * [141. 环形链表](leetcode-ti-jie/simple/141.-huan-xing-lian-biao.md)
+  * [203. 移除链表元素](leetcode-ti-jie/simple/203.-yi-chu-lian-biao-yuan-su.md)
   * [217. 存在重复元素](leetcode-ti-jie/simple/217.-cun-zai-zhong-fu-yuan-su.md)
   * [242. 有效的字母异位词](leetcode-ti-jie/simple/242.-you-xiao-de-zi-mu-yi-wei-ci.md)
   * [350. 两个数组的交集 II](leetcode-ti-jie/simple/350.-liang-ge-shu-zu-de-jiao-ji-ii.md)
